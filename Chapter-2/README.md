@@ -4,9 +4,9 @@ True and False.
 It is written with its first letter in uppercase followed by lowercase. 
 
 ###### 2. What are the three Boolean operators?
-a)and
-b)or
-c)not
+a)and</br>
+b)or</br>
+c)not</br>
 
 ###### 3. Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to).
 &nbsp;
@@ -40,19 +40,19 @@ not ((5 > 4) or (3 == 5))
 (True and True) and (True == False)
 (not False) or (not True)
 ```
-False
-False
-True
-False
-False
-True
+False</br>
+False</br>
+True</br>
+False</br>
+False</br>
+True</br>
 
 ###### 5. What are the six comparison operators?
-a) ==
-b) !=
-c) >
-d) <
-e) >=
+a) ==</br>
+b) !=</br>
+c) ></br>
+d) <</br>
+e) >=</br>
 f) <=
 
 ###### 6. What is the difference between the equal to operator and the assignment operator?
@@ -101,7 +101,7 @@ ctrl+c
 |:------:|:-------:|:-----:|
 |range(10)|0<=value<10|stop|
 |range(0,10)|0<=value<10|start,stop|
-|range(0,10)|0<=value<10|start,stop,step|
+|range(0,10,1)|0<=value<10|start,stop,step|
 
 ###### 13. Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
 &nbsp;
